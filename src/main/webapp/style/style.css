@@ -1,0 +1,23 @@
+body{
+
+
+    background:#F5F5F5;
+}
+
+.card{
+
+    box-shadow: 1px 2px black;
+}
+
+.gradient{
+
+    background: rgb(250,12,161);
+    background: linear-gradient(90deg, rgba(250,12,161,1) 0%, rgba(155,4,255,1) 47%, rgba(0,212,255,1) 100%);
+    color:white;
+}
+
+.gradient2{
+
+    background: rgb(118,121,255);
+    background: linear-gradient(90deg, rgba(118,121,255,1) 0%, rgba(4,13,255,1) 47%, rgba(20,215,255,1) 100%);
+}
